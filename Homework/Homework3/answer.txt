@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Results of Markdown Translation</title>
+</head>
+<body>
+This is my <strong>first</strong> Web page. Go to my <a href="second.html">second page.</a>
+<p>
+<img src="l_kbusbb2.jpg" alt="keyboard image" title="my keyboard of choice">
+<p>
+I teach or have taught the following classes at Stony Brook:
+<ul>
+<li>CSE 101</li>
+<li>CSE/ISE 102</li>
+<li>CSE 114</li>
+<li>CSE/ISE 312</li>
+</ul>
+</body>
+</html>
